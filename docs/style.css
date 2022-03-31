@@ -18,6 +18,9 @@ body {
 
 
 }
+a {
+    text-decoration: none;
+}
 
 .box2 {
     width: 75%
